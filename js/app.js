@@ -5,7 +5,7 @@ var postLists = Vue.component('post-list',{
   <div class="card-block">
     <h4 class="card-title">{{post.title.rendered}}</h4>
     <p class="card-text">{{post.excerpt.rendered}}</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">Read More</a>
   </div>
 </div></div></div>`,
     data: function () {
