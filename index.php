@@ -1,9 +1,9 @@
 <?php get_header(); ?>
+<div id="app">
+<div class="container">
 
-	<h1>Welcome to Olympos theme.</h1>
-    <p>
-        You can delete this text in index.php
-    </p>
+        <post-list></post-list>
 
-    
+</div>
+</div>
 <?php get_footer(); ?>
